@@ -1,16 +1,16 @@
 {
-    "name": "royscheepens/hexon-export",
+    "name": "jarirengeling/hexon-export",
     "description": "A Laravel 5.5+ package to process imcremental XML exports from Hexon's Doorlinken Voorraad.",
     "version": "0.1.1",
     "keywords": [
         "currenlty open",
         "laravel"
     ],
-    "homepage": "https://github.com/royscheepens/hexon-export",
+    "homepage": "https://github.com/JariRengeling97/hexon-export",
     "authors": [
     {
-        "name": "Roy Scheepens",
-        "email": "roy.scheepens@gmail.com"
+        "name": "Jari Rengeling",
+        "email": "jarirengeling@outlook.com"
     }
     ],
     "require": {
